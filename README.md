@@ -1,5 +1,4 @@
-***put your srt english subtitle file in a same directory with code
+1-put your English subtitle file with srt format in the same directory with code<br>
+2-in the input_file.txt type subtitle file name<br>
 
-***in the input_file.txt type subtitle file name
-
-now you can run the code!
+after running the code text of subtitle file will save at output.txt
