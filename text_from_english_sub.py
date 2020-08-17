@@ -29,8 +29,8 @@ for row in raw_sub:
     except:
         pass
 
-output_text=input_file.rstrip('.srt')+'.txt'
-fop=open(output_text,'w')
+#output_text=input_file.rstrip('.srt')+'.txt'
+fop=open('output.txt','w')
 i=0
 for row in sub_text:
     try:
